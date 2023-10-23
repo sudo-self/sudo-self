@@ -3,4 +3,4 @@
 ![Deploy static content to Pages](https://github.com/sudo-self/sudo-self/actions/workflows/static.yml/badge.svg)
 ![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/sudo-self/sudo-self.github.io/actions/workflows/jekyll-gh-pages.yml/badge.svg)
 ![sudo](https://github.com/sudo-self/sudo-self/assets/119916323/1a759590-b554-4ce3-88a1-4fe5f278b915)<br>
-
+<img width="1021" alt="visitors" src="https://github.com/sudo-self/sudo-self/assets/119916323/562360cc-ea95-4010-ba99-21ff1943f39a">
