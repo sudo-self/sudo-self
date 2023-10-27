@@ -1,5 +1,5 @@
-# Cloudflared Workers<a href="https://workers.cloudflare.com/playground">&nbsp;Playground</a>
-## An NFT Collection<a href="https://visitors.jessejesse.com">&nbsp;visitors have arrived.</a>
+# Cloudflared Workers<a href="https://workers.cloudflare.com/playground">&nbsp;Playground
+## An NFT Collection<a href="https://visitors.jessejesse.com">&nbsp;visitors have arrived.
 ## A react word game<a href="https://sudo-hangman.vercel.app">&nbsp;hangman&nbsp;&nbsp;</a>Multiplayer<a href="https://xo.jessejesse.com">&nbsp;tic-tac-toe</a><hr>
 ### <img width="498" alt="Screenshot 2023-10-27 at 07 37 10" src="https://github.com/sudo-self/sudo-self/assets/119916323/aa60f64b-c9a6-47f9-9ca7-6a45b3307905">
  [![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=@babel/traverse&package-manager=npm_and_yarn&previous-version=7.22.5&new-version=7.23.2)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)
