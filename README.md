@@ -1,5 +1,5 @@
 ### Cloudflared Workers<a href="https://workers.cloudflare.com/playground">&nbsp;Playground</a>
-#### <a href="https://visitors.jessejesse.com">visitors have arrived.</a>
+#### An NFT Collection<a href="https://visitors.jessejesse.com">visitors have arrived.</a>
 #### <img width="498" alt="Screenshot 2023-10-27 at 07 37 10" src="https://github.com/sudo-self/sudo-self/assets/119916323/aa60f64b-c9a6-47f9-9ca7-6a45b3307905">
 
 
