@@ -1,3 +1,9 @@
+## Hi, I'm Jesse
+
+- Originally from ipswitch, England. Former Gunny, Smoke, Sergeant First Clas.
+- A.A.S. info systems, B.S. Information Technology, CTU. Currently Working in a Tech Support role while I finish a masters.
+- more at [jessejesse.com](https://jessejesse.com) or drop me a line! Jesse [at] JesseJesse [dot] com
+  
 ## <a href="https://JesseJesse.com/">&nbsp;JesseJesse.com
 ![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=@babel/traverse&package-manager=npm_and_yarn&previous-version=7.22.5&new-version=7.23.2)
 ![Deploy static content to Pages](https://github.com/sudo-self/sudo-self/actions/workflows/static.yml/badge.svg)
