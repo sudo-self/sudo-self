@@ -1,6 +1,6 @@
 ## Hi, I'm Jesse
 
-- Originally from ipswitch, England. Former Gunny, Smoke, Sergeant First Clas.
+- Originally from Ipswitch, England. former Gunny, Smoke,  Sergeant First Clas.
 - A.A.S. info systems, B.S. Information Technology, CTU. Currently Working in a Tech Support role while I finish a masters.
 - more at [jessejesse.com](https://jessejesse.com) or drop me a line! Jesse [at] JesseJesse [dot] com
   
