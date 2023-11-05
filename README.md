@@ -2,7 +2,7 @@
 
 - Originally from Ipswitch, England. former Gunny, Smoke,  Sergeant First Class.
 - A.A.S. info systems, B.S. Information Technology, CTU. Currently working in a tech support role while I finish a masters degree.
-- Some recent projects [jessejesse.com](https://jessejesse.com) or drop me a line! Jesse [at] JesseJesse [dot] com<hr>
+- might find some recent projects [at] [jessejesse.com](https://jessejesse.com) or drop me a line! Jesse [at] JesseJesse [dot] com<hr>
 ![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=@babel/traverse&package-manager=npm_and_yarn&previous-version=7.22.5&new-version=7.23.2)
 ![Deploy static content to Pages](https://github.com/sudo-self/sudo-self/actions/workflows/static.yml/badge.svg)
 ![pages-build-deployment](https://github.com/sudo-self/link-in-bio/actions/workflows/pages/pages-build-deployment/badge.svg)
