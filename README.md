@@ -1,5 +1,4 @@
-### Hi, I'm Jesse
-
+### Hi, I'm Jesse 🫡
 - Originally from Ipswitch, England. former Gunny, Smoke,  Sergeant First Class.
 - A.A.S. info systems, B.S. Information Technology, CTU. Currently working in a tech support role while I finish a masters degree.
 - might find some recent projects on [jessejesse.com](https://jessejesse.com) or drop me an email Jesse [at] JesseJesse [dot] com<hr>
