@@ -1,4 +1,4 @@
-### Hi, I'm Jesse 🫡RedLeg
+### Hi, I'm sudo-self 🫡RedLeg
 - Originally from Ipswitch, England. Sergeant First Class. 
 - AS info systems, BS Information Technology, CTU.
 - might find some recent projects on [jessejesse.com](https://jessejesse.com) or drop me an email Jesse [at] JesseJesse [dot] com<hr>
