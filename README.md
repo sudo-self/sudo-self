@@ -7,8 +7,7 @@
 ![pages-build-deployment](https://github.com/sudo-self/link-in-bio/actions/workflows/pages/pages-build-deployment/badge.svg)
 ![Node.js CI](https://github.com/sudo-self/xo.JesseJesse.com/actions/workflows/node.js.yml/badge.svg?branch=main)
 ![sudo](https://github.com/sudo-self/sudo-self/assets/119916323/1a759590-b554-4ce3-88a1-4fe5f278b915)
-
-
+[![(CD) workers.new](https://github.com/sudo-self/templates/actions/workflows/cd.workers-new.yml/badge.svg)](https://github.com/sudo-self/templates/actions/workflows/cd.workers-new.yml)
 
 
 
