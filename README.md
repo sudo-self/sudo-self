@@ -4,6 +4,7 @@
 -  might find some recent projects on [jessejesse.com](https://jessejesse.com) or [drop a few words](https://sudo-self.github.io/sudo-self/)<hr>
 ![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=@babel/traverse&package-manager=npm_and_yarn&previous-version=7.22.5&new-version=7.23.2)
 ![Deploy static content to Pages](https://github.com/sudo-self/sudo-self/actions/workflows/static.yml/badge.svg)
+[![Deploy Nuxt site to Pages](https://github.com/sudo-self/nuxt-ai-chatbot/actions/workflows/nuxtjs.yml/badge.svg)](https://github.com/sudo-self/nuxt-ai-chatbot/actions/workflows/nuxtjs.yml)
 ![pages-build-deployment](https://github.com/sudo-self/link-in-bio/actions/workflows/pages/pages-build-deployment/badge.svg)
 ![Node.js CI](https://github.com/sudo-self/xo.JesseJesse.com/actions/workflows/node.js.yml/badge.svg?branch=main)
 [![(CD) workers.new](https://github.com/sudo-self/templates/actions/workflows/cd.workers-new.yml/badge.svg)](https://github.com/sudo-self/templates/actions/workflows/cd.workers-new.yml)
