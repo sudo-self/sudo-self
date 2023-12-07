@@ -1,4 +1,4 @@
-### 🌐[sudo-self](https://sudo-self.com)<br>
+# [sudo-self](https://sudo-self.com)<br>
 - England 🏴󠁧󠁢󠁥󠁮󠁧󠁿<br>
 - [Twitter](https://www.twitter.com/ilostmyipad_) | [Website](https://jessejesse.com) |[Linkedin](https://www.linkedin.com/in/jrsdevelopments/) | [Instagram](https://www.instagram.com/jr85er_) | [Mail](mailto:ilostmyipad@proton.me)<hr>
 
