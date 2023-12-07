@@ -1,4 +1,4 @@
-# The&nbsp;✨[sudo-self](https://sudo-self.github.io/sudo-self/)✨.com&nbsp;&nbsp;lost repos<br>
+# The&nbsp;✨[sudo-self](https://sudo-self.github.io/sudo-self/)✨.com&nbsp;◽ ◼️ ◻️ ⬛&nbsp;🔮<br>
 [MESSENGER](https://messenger.sudo-self.com) | [PLAY](https://play.sudo-self.com) | [CRYPT](https://html.sudo-self.com) | [GUESS](https://guess.sudo-self.com/) | [CLOCK](https://clock.sudo-self.com) | [BOUNCE](https://bounce.sudo-self.com) | [TCC](https://tcc.sudo-self.com) | [XYZ](https://xyz.sudo-self.com) | [WEB](https://web.sudo-self.com) | [RPS](https://RPS.sudo-self.com) | [THATONEDEV](https://thatonedev.vercel.app/) | [TOOLS](https://it.sudo-self.vercel.app)&nbsp;![sudo-self.com](https://pub-c1de1cb456e74d6bbbee111ba9e6c757.r2.dev/2.jpg)<hr>
 
 ![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=@babel/traverse&package-manager=npm_and_yarn&previous-version=7.22.5&new-version=7.23.2)<br>
