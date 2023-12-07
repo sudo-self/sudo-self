@@ -1,4 +1,4 @@
-### 🌐![sudo-self.com](https://bucket.jessejesse.com/Screenshot%202023-12-07%20at%204.34.52%E2%80%AFAM.png)<br>
+### 🌐![sudo-self.com](https://bucket.jessejesse.com/Dec-07-2023 04-40-05.gif))<br>
 - England 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 [Twitter](https://www.twitter.com/ilostmyipad_) | [Website](https://jessejesse.com) |[Linkedin](https://www.linkedin.com/in/jrsdevelopments/) | [Instagram](https://www.instagram.com/jr85er_) | [Mail](mailto:ilostmyipad@proton.me)<hr>
 
