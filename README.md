@@ -1,5 +1,5 @@
 # The&nbsp;[sudo-self](https://sudo-self-l94ipc7ti-sudo-self.vercel.app)&nbsp;github<br>
-- [PLAY](https://play.sudo-self.com) | [HTML CRYPT](https://html.sudo-self.com) |[Linkedin](https://www.linkedin.com/in/jrsdevelopments/) | [clock](https://clock.sudo-self.com) | [Mail](mailto:ilostmyipad@proton.me)<hr>
+- [PLAY](https://play.sudo-self.com) | [ENCRYPT](https://html.sudo-self.com) |[GUESS](https://guess.sudo-self.com/) | [clock](https://clock.sudo-self.com) | [BOUNCE](https://bounce.sudo-self.com)<hr>
 
 ![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=@babel/traverse&package-manager=npm_and_yarn&previous-version=7.22.5&new-version=7.23.2)<br>
 ![Node.js CI](https://github.com/sudo-self/xo.JesseJesse.com/actions/workflows/node.js.yml/badge.svg?branch=main)<br>
