@@ -5,10 +5,10 @@
 ![pages-build-deployment](https://github.com/sudo-self/link-in-bio/actions/workflows/pages/pages-build-deployment/badge.svg)<br>
 ![Node.js CI](https://github.com/sudo-self/xo.JesseJesse.com/actions/workflows/node.js.yml/badge.svg?branch=main)<br>
 ![(CD) workers.new](https://github.com/sudo-self/templates/actions/workflows/cd.workers-new.yml/badge.svg)<br>
-![sudo](https://github.com/sudo-self/sudo-self/assets/119916323/1a759590-b554-4ce3-88a1-4fe5f278b915)<br>
 [![Deploy Nuxt site to Pages](https://github.com/sudo-self/Next-Nuxt-Vue/actions/workflows/nuxtjs.yml/badge.svg)](https://github.com/sudo-self/Next-Nuxt-Vue/actions/workflows/nuxtjs.yml)<br>
 ![Deploy static content to Pages](https://github.com/sudo-self/sudo-self/actions/workflows/static.yml/badge.svg)<br>
 [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/sudo-self/Jaystation-Jekyll/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/sudo-self/Jaystation-Jekyll/actions/workflows/jekyll-gh-pages.yml)<br>
+![sudo](https://github.com/sudo-self/sudo-self/assets/119916323/1a759590-b554-4ce3-88a1-4fe5f278b915)<br>
 <!--🦶FOOTER--> 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 <p align="center">
