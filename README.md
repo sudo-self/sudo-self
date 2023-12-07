@@ -1,8 +1,9 @@
 ### 🌐<a href="https://github.com/sudo-self/iOS-Cracked-Apps">sudo-self.com</a><br>
 - England 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 [Twitter](https://www.twitter.com/ilostmyipad_) | [Website](https://jessejesse.com) |[Linkedin](https://www.linkedin.com/in/jrsdevelopments/) | [Instagram](https://www.instagram.com/jr85er_) | [Mail](mailto:ilostmyipad@proton.me)<hr>
-![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=@babel/traverse&package-manager=npm_and_yarn&previous-version=7.22.5&new-version=7.23.2)<br>
-![Node.js CI](https://github.com/sudo-self/xo.JesseJesse.com/actions/workflows/node.js.yml/badge.svg?branch=main)<br>
+
+![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=@babel/traverse&package-manager=npm_and_yarn&previous-version=7.22.5&new-version=7.23.2)
+![Node.js CI](https://github.com/sudo-self/xo.JesseJesse.com/actions/workflows/node.js.yml/badge.svg?branch=main)
 ![(CD) workers.new](https://github.com/sudo-self/templates/actions/workflows/cd.workers-new.yml/badge.svg)<br>
 ![pages-build-deployment](https://github.com/sudo-self/link-in-bio/actions/workflows/pages/pages-build-deployment/badge.svg)<br>
 [![Deploy Nuxt site to Pages](https://github.com/sudo-self/Next-Nuxt-Vue/actions/workflows/nuxtjs.yml/badge.svg)](https://github.com/sudo-self/Next-Nuxt-Vue/actions/workflows/nuxtjs.yml)<br>
