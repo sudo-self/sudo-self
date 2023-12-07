@@ -1,4 +1,4 @@
-### 🌐<a href="https://github.com/sudo-self/iOS-Cracked-Apps">sudo-self.com</a><br>
+### 🌐![sudo-self.com](https://nowords.pages.dev)<br>
 - England 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 [Twitter](https://www.twitter.com/ilostmyipad_) | [Website](https://jessejesse.com) |[Linkedin](https://www.linkedin.com/in/jrsdevelopments/) | [Instagram](https://www.instagram.com/jr85er_) | [Mail](mailto:ilostmyipad@proton.me)<hr>
 
