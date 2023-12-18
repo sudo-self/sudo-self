@@ -7,6 +7,7 @@
 ![(CD) workers.new](https://github.com/sudo-self/templates/actions/workflows/cd.workers-new.yml/badge.svg)<br>
 ![pages-build-deployment](https://github.com/sudo-self/link-in-bio/actions/workflows/pages/pages-build-deployment/badge.svg)<br>
 [![Deploy Nuxt site to Pages](https://github.com/sudo-self/Next-Nuxt-Vue/actions/workflows/nuxtjs.yml/badge.svg)](https://github.com/sudo-self/Next-Nuxt-Vue/actions/workflows/nuxtjs.yml)<br>
+[![Deploy Next.js site to Pages](https://github.com/sudo-self/spot-tea-fi/actions/workflows/nextjs.yml/badge.svg)](https://github.com/sudo-self/spot-tea-fi/actions/workflows/nextjs.yml)<br>
 ![Deploy static content to Pages](https://github.com/sudo-self/sudo-self/actions/workflows/static.yml/badge.svg)<br>
 [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/sudo-self/Jaystation-Jekyll/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/sudo-self/Jaystation-Jekyll/actions/workflows/jekyll-gh-pages.yml)<br>
 ![sudo](https://github.com/sudo-self/sudo-self/assets/119916323/1a759590-b554-4ce3-88a1-4fe5f278b915)<br>
