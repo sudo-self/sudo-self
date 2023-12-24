@@ -8,12 +8,10 @@
 [![Deploy Nuxt site to Pages](https://github.com/sudo-self/Next-Nuxt-Vue/actions/workflows/nuxtjs.yml/badge.svg)](https://github.com/sudo-self/Next-Nuxt-Vue/actions/workflows/nuxtjs.yml)
 ![Deploy static content to Pages](https://github.com/sudo-self/sudo-self/actions/workflows/static.yml/badge.svg)
 [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/sudo-self/Jaystation-Jekyll/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/sudo-self/Jaystation-Jekyll/actions/workflows/jekyll-gh-pages.yml)
-![sudo](https://github.com/sudo-self/sudo-self/assets/119916323/1a759590-b554-4ce3-88a1-4fe5f278b915)
 ![sudo](https://github.com/sudo-self/sudo-self/assets/119916323/1a759590-b554-4ce3-88a1-4fe5f278b915)<br>
 <!--🦶FOOTER--> 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
-<p align="center">
-      
+<p align="center">    
 </p>
 <!--⚽️ACTIVITY / 🌐WEBSITE: https://github.com/Readme-Workflows/recent-activity -->
 <!--RECENT_ACTIVITY:start-->
