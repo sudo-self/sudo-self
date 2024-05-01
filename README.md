@@ -1,5 +1,5 @@
 # The&nbsp;✨[sudo-self](https://sudo-self.github.io/sudo-self/)✨.com&nbsp;&nbsp;[![CI](https://github.com/sudo-self/templates/actions/workflows/ci.yml/badge.svg)](https://github.com/sudo-self/templates/actions/workflows/ci.yml)<br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=sudo-self-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)![sudo-self](https://github.com/sudo-self/sudo-self/assets/119916323/bbfe6268-316d-4ef8-a90f-6acf9a0f1cf9)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sudo-self-ma&theme=onedark)](https://github.com/sudo-self/github-profile-trophy)![sudo-self](https://github.com/sudo-self/sudo-self/assets/119916323/bbfe6268-316d-4ef8-a90f-6acf9a0f1cf9)
 <br>
 
 <!--🦶FOOTER--> 
