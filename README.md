@@ -1,6 +1,6 @@
 # The&nbsp;✨[sudo-self](https://sudo-self.github.io/sudo-self/)✨.com&nbsp;&nbsp;[![CI](https://github.com/sudo-self/templates/actions/workflows/ci.yml/badge.svg)](https://github.com/sudo-self/templates/actions/workflows/ci.yml)<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=sudo-self)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=sudo-self&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
 
 <!--🦶FOOTER--> 
