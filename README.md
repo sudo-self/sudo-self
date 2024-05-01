@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm sudo-self!</h1>
+  <h1>Hello World!</h1>
   <img src="https://media.licdn.com/dms/image/D5603AQFZs0EJGUIX9g/profile-displayphoto-shrink_800_800/0/1712622578703?e=1720051200&v=beta&t=_Gdf1MbrmC60zhyQqw_h1PZy_lWWzcJxcd06h3OMhYM" alt="sudo-self" width="200"/>
 </div>
 
