@@ -1,5 +1,12 @@
 # The&nbsp;✨[sudo-self](https://sudo-self.github.io/sudo-self/)✨.com&nbsp;&nbsp;[![CI](https://github.com/sudo-self/templates/actions/workflows/ci.yml/badge.svg)](https://github.com/sudo-self/templates/actions/workflows/ci.yml)<br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=sudo-self&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<div id="badges">
+  <a href="https://www.linkedin.com/in/jrsdevelopments/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://x.com/ilostmyipadL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=sudo-self&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--🦶FOOTER--> 
 <img src="https://komarev.com/ghpvc/?username=sudo-self&style=flat-square&color=blue" alt=""/>
 </p>
