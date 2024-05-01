@@ -1,6 +1,6 @@
 # The&nbsp;✨[sudo-self](https://sudo-self.github.io/sudo-self/)✨.com&nbsp;&nbsp;[![CI](https://github.com/sudo-self/templates/actions/workflows/ci.yml/badge.svg)](https://github.com/sudo-self/templates/actions/workflows/ci.yml)
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.licdn.com/dms/image/D5603AQFZs0EJGUIX9g/profile-displayphoto-shrink_800_800/0/1712622578703?e=1720051200&v=beta&t=_Gdf1MbrmC60zhyQqw_h1PZy_lWWzcJxcd06h3OMhYM" width="100"/>
 </div><div id="badges">
   <a href="https://www.linkedin.com/in/jrsdevelopments/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
