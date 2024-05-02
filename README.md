@@ -19,8 +19,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sudo-self&column=3" />
   </a>
 </div>
-
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sudo-selfe&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <div align="center">
   <i>Last updated: Sunday, November 12th, 2023, 9:22:46 PM</i>
