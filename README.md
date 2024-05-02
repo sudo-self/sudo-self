@@ -19,9 +19,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sudo-self&column=3" />
   </a>
 </div>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sudo-self&theme=vue-dark)](https://git.io/streak-stats)
-
+<div align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=sudo-self&theme=vue-dark)](https://git.io/streak-stats)
+</div>
 
 <div align="center">
   <i>Last updated: Sunday, November 12th, 2023, 9:22:46 PM</i>
