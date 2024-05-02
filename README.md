@@ -24,7 +24,7 @@
 </div>
 <div align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-self)]
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-self)
   
   <i>Last updated: Sunday, November 12th, 2023, 9:22:46 PM</i>
 </div>
