@@ -20,7 +20,7 @@
   </a>
 </div>
 
-### :fire: My Stats :[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sudo-selfe&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sudo-self&theme=vue-dark)](https://git.io/streak-stats)
 
 
 <div align="center">
