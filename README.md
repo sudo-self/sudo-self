@@ -22,7 +22,7 @@
 
 
 
-<div align="right">
+<div align="center">
   <i>Last updated: Sunday, November 12th, 2023, 9:22:46 PM</i>
 </div>
 
