@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hello World!</h1>
   
- <h2>[Sudo-self](https://sudo-self.github.io/sudo-self/)</h2>
+ <h2><a href="https://sudo-self.github.io/sudo-self">Sudo-Self</h2>
   
  [![Latest blog post workflow](https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml/badge.svg?branch=main)](https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml)
   
