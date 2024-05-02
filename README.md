@@ -13,9 +13,8 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=sudo-self-ma&column=3&theme=onedark" alt="GitHub Profile Trophy">
-
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=sudo-self&column=2" />
   </a>
 </div>
 
