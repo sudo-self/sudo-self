@@ -23,6 +23,7 @@
 
 </div>
 <div align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-self)](https://github.com/anuraghazra/github-readme-stats)
   <i>Last updated: Sunday, November 12th, 2023, 9:22:46 PM</i>
 </div>
 
