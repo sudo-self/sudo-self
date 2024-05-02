@@ -29,11 +29,6 @@
 </div>
 <div align="center">
   
-  # Astro Status
-
-<iframe src="https://astro-status.pages.dev" width="100%" height="500px"></iframe>
-
-  
   ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 - [Magic .mp3 Burner](https://dev.to/sudo-self/magic-mp3-burner-49bo)
