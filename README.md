@@ -19,7 +19,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sudo-self&column=3" />
   </a>
 </div>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sudo-selfe&theme=dark&background=000000)](https://git.io/streak-stats)
+
+### :fire: My Stats :[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sudo-selfe&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 <div align="center">
