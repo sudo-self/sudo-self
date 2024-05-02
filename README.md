@@ -16,7 +16,7 @@
 
 <div align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=sudo-self&column=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sudo-self&column=3&theme=onedark" />
   </a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sudo-self&theme=vue-dark)](https://git.io/streak-stats)
