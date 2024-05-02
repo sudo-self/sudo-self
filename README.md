@@ -19,7 +19,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sudo-self&column=3&theme=onedark" />
   </a>
   
-[!Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-self)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-self)
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=sudo-self&theme=vue-dark)](https://git.io/streak-stats)
 
