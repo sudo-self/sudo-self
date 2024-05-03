@@ -38,6 +38,8 @@
 - [http request](https://dev.to/sudo-self/http-request-200-ok-4li2)
 - [Dark Mode](https://dev.to/sudo-self/dark-mode-23dd)
 - [htmx chat](https://dev.to/sudo-self/htmx-chat-2bn3)
+- [Colorful Counter](https://dev.to/sudo-self/colorful-counter-cph)
+- [Oh-Stick!](https://dev.to/sudo-self/oh-stick-1dfl)
 <!-- BLOG-POST-LIST:END -->
   
 <table align="center">
