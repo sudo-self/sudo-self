@@ -32,12 +32,12 @@
   
   ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [GitHub-Repos](https://dev.to/sudo-self/github-repos-284g)
 - [Magic .mp3 Burner](https://dev.to/sudo-self/magic-mp3-burner-49bo)
 - [Base 64](https://dev.to/sudo-self/base-64-2pa0)
 - [http request](https://dev.to/sudo-self/http-request-200-ok-4li2)
 - [Dark Mode](https://dev.to/sudo-self/dark-mode-23dd)
 - [htmx chat](https://dev.to/sudo-self/htmx-chat-2bn3)
-- [Colorful Counter](https://dev.to/sudo-self/colorful-counter-cph)
 <!-- BLOG-POST-LIST:END -->
   
 <table align="center">
