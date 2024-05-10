@@ -32,6 +32,7 @@
   
   ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Blog with comments..](https://dev.to/sudo-self/blog-with-comments-1314)
 - [GitHub-repo-api](https://dev.to/sudo-self/github-repos-284g)
 - [Magic .mp3 Burner](https://dev.to/sudo-self/magic-mp3-burner-49bo)
 - [Base 64](https://dev.to/sudo-self/base-64-2pa0)
