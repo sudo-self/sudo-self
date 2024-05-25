@@ -25,8 +25,6 @@
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-self)
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=sudo-self&theme=vue-dark)](https://git.io/streak-stats)
-
 </div>
 <div align="center">
   
