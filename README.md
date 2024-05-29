@@ -22,8 +22,9 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
-<img width="148" alt="pull-shark-default-498c279a747d" src="https://github.com/sudo-self/sudo-self/assets/119916323/591566e1-cd9a-445c-9d0b-82ca60b4c37f">
+<div align="center">
+  ## Github Achievements
+  <img width="148" alt="pull-shark-default-498c279a747d" src="https://github.com/sudo-self/sudo-self/assets/119916323/591566e1-cd9a-445c-9d0b-82ca60b4c37f">
 <img width="148" alt="quickdraw-default--light-8f798b35341a" src="https://github.com/sudo-self/sudo-self/assets/119916323/9d692e82-ae9f-4703-9355-74a0e8bebbfe">
 <img width="148" alt="starstruck-default--light-a594e2a027e0" src="https://github.com/sudo-self/sudo-self/assets/119916323/5c4f6626-7c67-4277-97a6-b67b77d08953">
 <img width="148" alt="yolo-default-be0bbff04951" src="https://github.com/sudo-self/sudo-self/assets/119916323/f135932f-d44f-4bb9-b72a-ac23219112bc">
