@@ -1,18 +1,16 @@
 <div align="center">
   <h1 align="center">Hi 👋, I'm sudo-self</h1>
-  
+  <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sudo-self&style=flat-square&color=blue" alt="Profile Views Counter" />
+</div>  
   [![Deploy](https://github.com/sudo-self/chat-app/actions/workflows/deploy.yml/badge.svg)](https://github.com/sudo-self/chat-app/actions/workflows/deploy.yml)
   
   <h3 align="center">A passionate IT Professional from Colorado</h3>
 
   [![Latest blog post workflow](https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml/badge.svg?branch=main)](https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml) [![pages-build-deployment](https://github.com/sudo-self/sudo-self/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/sudo-self/sudo-self/actions/workflows/pages/pages-build-deployment)  
   
-  <img src="https://media.licdn.com/dms/image/D5603AQFZs0EJGUIX9g/profile-displayphoto-shrink_800_800/0/1712622578703?e=1720051200&v=beta&t=_Gdf1MbrmC60zhyQqw_h1PZy_lWWzcJxcd06h3OMhYM" alt="sudo-self" width="200"/>
-</div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sudo-self&style=flat-square&color=blue" alt="Profile Views Counter" />
-</div>
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jrsdevelopments/">
