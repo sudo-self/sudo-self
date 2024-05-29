@@ -3,6 +3,7 @@
   <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sudo-self&style=flat-square&color=blue" alt="Profile Views Counter" />
 </div>  
+  
   [![Deploy](https://github.com/sudo-self/chat-app/actions/workflows/deploy.yml/badge.svg)](https://github.com/sudo-self/chat-app/actions/workflows/deploy.yml)
   
   <h3 align="center">A passionate IT Professional from Colorado</h3>
