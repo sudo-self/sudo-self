@@ -5,8 +5,6 @@
   
   [![Deno](https://github.com/sudo-self/psx.deno/actions/workflows/deno.yml/badge.svg)](https://github.com/sudo-self/psx.deno/actions/workflows/deno.yml)
   
-  [![Deploy](https://github.com/sudo-self/chat-app/actions/workflows/deploy.yml/badge.svg)](https://github.com/sudo-self/chat-app/actions/workflows/deploy.yml)
-  
   <h3 align="center">A passionate IT Professional from Colorado</h3>
 
   [![Latest blog post workflow](https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml/badge.svg?branch=main)](https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml) [![pages-build-deployment](https://github.com/sudo-self/sudo-self/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/sudo-self/sudo-self/actions/workflows/pages/pages-build-deployment)  
