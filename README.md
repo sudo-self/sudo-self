@@ -1,14 +1,20 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-Hi 👋, I'm sudo-self 
-<img src="https://komarev.com/ghpvc/?username=sudo-self&style=flat-square&color=blue" alt="Profile Views Counter" />
+<h1 align="center">Hi 👋, I'm sudo-self</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sudo-self&style=flat-square&color=blue" alt="Profile Views Counter" />
+</p>
 
-[![Deno](https://github.com/sudo-self/psx.deno/actions/workflows/deno.yml/badge.svg)](https://github.com/sudo-self/psx.deno/actions/workflows/deno.yml)
+<p align="center">
+  [![Deno](https://github.com/sudo-self/psx.deno/actions/workflows/deno.yml/badge.svg)](https://github.com/sudo-self/psx.deno/actions/workflows/deno.yml)
+</p>
 
- A passionate Veteran and IT Professional
+<h3 align="center">A passionate Veteran and IT Professional</h3>
 
-[![Latest blog post workflow](https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml/badge.svg?branch=main)](https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml)
-[![pages-build-deployment](https://github.com/sudo-self/sudo-self/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/sudo-self/sudo-self/actions/workflows/pages/pages-build-deployment)
+<p align="center">
+  [![Latest blog post workflow](https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml/badge.svg?branch=main)](https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml)
+  [![pages-build-deployment](https://github.com/sudo-self/sudo-self/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/sudo-self/sudo-self/actions/workflows/pages/pages-build-deployment)
+</p>
 
 ### :writing_hand: Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -24,15 +30,15 @@ Hi 👋, I'm sudo-self
 - [Oh-Stick!](https://dev.to/sudo-self/oh-stick-1dfl)
 <!-- BLOG-POST-LIST:END -->
 
-<img width="148" src="https://github.com/sudo-self/sudo-self/assets/119916323/591566e1-cd9a-445c-9d0b-82ca60b4c37f" />
-<img width="148" src="https://github.com/sudo-self/sudo-self/assets/119916323/9d692e82-ae9f-4703-9355-74a0e8bebbfe" />
-<img width="148" src="https://github.com/sudo-self/sudo-self/assets/119916323/5c4f6626-7c67-4277-97a6-b67b77d08953" />
-<img width="148" src="https://github.com/sudo-self/sudo-self/assets/119916323/f135932f-d44f-4bb9-b72a-ac23219112bc" />
+<p align="center">
+  <img width="148" src="https://github.com/sudo-self/sudo-self/assets/119916323/591566e1-cd9a-445c-9d0b-82ca60b4c37f" />
+  <img width="148" src="https://github.com/sudo-self/sudo-self/assets/119916323/9d692e82-ae9f-4703-9355-74a0e8bebbfe" />
+  <img width="148" src="https://github.com/sudo-self/sudo-self/assets/119916323/5c4f6626-7c67-4277-97a6-b67b77d08953" />
+  <img width="148" src="https://github.com/sudo-self/sudo-self/assets/119916323/f135932f-d44f-4bb9-b72a-ac23219112bc" />
+</p>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=sudo-self&column=3&theme=onedark" />
-</a>
-
-
-
-
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sudo-self&column=3&theme=onedark" />
+  </a>
+</p>
