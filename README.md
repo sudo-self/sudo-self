@@ -10,7 +10,7 @@
   [![Latest blog post workflow](https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml/badge.svg?branch=main)](https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml) 
   [![pages-build-deployment](https://github.com/sudo-self/sudo-self/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/sudo-self/sudo-self/actions/workflows/pages/pages-build-deployment)  
   
-  ### :writing_hand: Blog Posts:
+  :writing_hand: Blog Posts:
   <!-- BLOG-POST-LIST:START -->
   - [dicebear api](https://dev.to/sudo-self/dicebear-api-m59)
   - [Blog with comments..](https://dev.to/sudo-self/blog-with-comments-1314)
