@@ -1,11 +1,9 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<br>
 <div align="center">
   <h1 align="center">Hi 👋, I'm sudo-self</h1>
   <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sudo-self&style=flat-square&color=blue" alt="Profile Views Counter" />
-</div>  
   
   [![Deploy](https://github.com/sudo-self/chat-app/actions/workflows/deploy.yml/badge.svg)](https://github.com/sudo-self/chat-app/actions/workflows/deploy.yml)
   
