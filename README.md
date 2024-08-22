@@ -5,7 +5,7 @@
   
   [![Deno](https://github.com/sudo-self/psx.deno/actions/workflows/deno.yml/badge.svg)](https://github.com/sudo-self/psx.deno/actions/workflows/deno.yml)
   
-  <h3 align="center">A passionate IT Professional from Colorado</h3>
+  <h3 align="center">A passionate Veteran and IT Professional</h3>
 
   [![Latest blog post workflow](https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml/badge.svg?branch=main)](https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml) [![pages-build-deployment](https://github.com/sudo-self/sudo-self/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/sudo-self/sudo-self/actions/workflows/pages/pages-build-deployment)  
   <div align="center">
