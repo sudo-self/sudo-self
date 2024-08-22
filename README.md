@@ -1,11 +1,11 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-##  Hi 👋, I'm sudo-self 
+Hi 👋, I'm sudo-self 
 <img src="https://komarev.com/ghpvc/?username=sudo-self&style=flat-square&color=blue" alt="Profile Views Counter" />
 
 [![Deno](https://github.com/sudo-self/psx.deno/actions/workflows/deno.yml/badge.svg)](https://github.com/sudo-self/psx.deno/actions/workflows/deno.yml)
 
-###  A passionate Veteran and IT Professional
+ A passionate Veteran and IT Professional
 
 [![Latest blog post workflow](https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml/badge.svg?branch=main)](https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml)
 [![pages-build-deployment](https://github.com/sudo-self/sudo-self/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/sudo-self/sudo-self/actions/workflows/pages/pages-build-deployment)
