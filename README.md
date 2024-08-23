@@ -1,17 +1,33 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;">
+    <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;">
+</div>
 
-## Hi 👋, I'm sudo-self<br>
+<h1 align="center">Hi 👋, I'm sudo-self</h1>
 
-![Profile Views Counter](https://komarev.com/ghpvc/?username=sudo-self&style=flat-square&color=blue)
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=sudo-self&style=flat-square&color=blue" alt="Profile Views Counter"/>
+</div>
 
-[![Deno](https://github.com/sudo-self/psx.deno/actions/workflows/deno.yml/badge.svg)](https://github.com/sudo-self/psx.deno/actions/workflows/deno.yml)
+<div align="center">
+    <a href="https://github.com/sudo-self/psx.deno/actions/workflows/deno.yml">
+        <img src="https://github.com/sudo-self/psx.deno/actions/workflows/deno.yml/badge.svg" alt="Deno"/>
+    </a>
+</div>
 
-A passionate Veteran and IT Professional
+<p align="center">A passionate Veteran and IT Professional</p>
 
-[![Latest blog post workflow](https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml/badge.svg?branch=main)](https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml)
-[![pages-build-deployment](https://github.com/sudo-self/sudo-self/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/sudo-self/sudo-self/actions/workflows/pages/pages-build-deployment)
+<div align="center">
+    <a href="https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml">
+        <img src="https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml/badge.svg?branch=main" alt="Latest blog post workflow"/>
+    </a>
+    <a href="https://github.com/sudo-self/sudo-self/actions/workflows/pages/pages-build-deployment">
+        <img src="https://github.com/sudo-self/sudo-self/actions/workflows/pages/pages-build-deployment/badge.svg" alt="Pages Build Deployment"/>
+    </a>
+</div>
 
-:writing_hand: Blog Posts
+## :writing_hand: Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
 - [dicebear api](https://dev.to/sudo-self/dicebear-api-m59)
 - [Blog with comments..](https://dev.to/sudo-self/blog-with-comments-1314)
@@ -25,11 +41,17 @@ A passionate Veteran and IT Professional
 - [Oh-Stick!](https://dev.to/sudo-self/oh-stick-1dfl)
 <!-- BLOG-POST-LIST:END -->
 
-#### ![Pull Shark](https://github.com/sudo-self/sudo-self/assets/119916323/591566e1-cd9a-445c-9d0b-82ca60b4c37f)
-#### ![Quickdraw](https://github.com/sudo-self/sudo-self/assets/119916323/9d692e82-ae9f-4703-9355-74a0e8bebbfe)
-#### ![Starstruck](https://github.com/sudo-self/sudo-self/assets/119916323/5c4f6626-7c67-4277-97a6-b67b77d08953)
-#### ![Yolo](https://github.com/sudo-self/sudo-self/assets/119916323/f135932f-d44f-4bb9-b72a-ac23219112bc)
+<div align="center">
+    <img src="https://github.com/sudo-self/sudo-self/assets/119916323/591566e1-cd9a-445c-9d0b-82ca60b4c37f" alt="Pull Shark" width="15%"/>
+    <img src="https://github.com/sudo-self/sudo-self/assets/119916323/9d692e82-ae9f-4703-9355-74a0e8bebbfe" alt="Quickdraw" width="15%"/>
+    <img src="https://github.com/sudo-self/sudo-self/assets/119916323/5c4f6626-7c67-4277-97a6-b67b77d08953" alt="Starstruck" width="15%"/>
+    <img src="https://github.com/sudo-self/sudo-self/assets/119916323/f135932f-d44f-4bb9-b72a-ac23219112bc" alt="Yolo" width="15%"/>
+</div>
 
+<div align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=sudo-self&column=3&theme=onedark" alt="GitHub Profile Trophy"/>
+    </a>
+</div>
 
-#### [![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=sudo-self&column=3&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
