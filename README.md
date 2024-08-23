@@ -25,10 +25,11 @@ A passionate Veteran and IT Professional
 - [Oh-Stick!](https://dev.to/sudo-self/oh-stick-1dfl)
 <!-- BLOG-POST-LIST:END -->
 
-![Pull Shark](https://github.com/sudo-self/sudo-self/assets/119916323/591566e1-cd9a-445c-9d0b-82ca60b4c37f)
-![Quickdraw](https://github.com/sudo-self/sudo-self/assets/119916323/9d692e82-ae9f-4703-9355-74a0e8bebbfe)
-![Starstruck](https://github.com/sudo-self/sudo-self/assets/119916323/5c4f6626-7c67-4277-97a6-b67b77d08953)
-![Yolo](https://github.com/sudo-self/sudo-self/assets/119916323/f135932f-d44f-4bb9-b72a-ac23219112bc)
+## ![Pull Shark](https://github.com/sudo-self/sudo-self/assets/119916323/591566e1-cd9a-445c-9d0b-82ca60b4c37f)
+## ![Quickdraw](https://github.com/sudo-self/sudo-self/assets/119916323/9d692e82-ae9f-4703-9355-74a0e8bebbfe)
+## ![Starstruck](https://github.com/sudo-self/sudo-self/assets/119916323/5c4f6626-7c67-4277-97a6-b67b77d08953)
+## ![Yolo](https://github.com/sudo-self/sudo-self/assets/119916323/f135932f-d44f-4bb9-b72a-ac23219112bc)
 
-[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=sudo-self&column=3&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## [![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=sudo-self&column=3&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
