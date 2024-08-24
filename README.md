@@ -40,7 +40,11 @@
 - [Colorful Counter](https://dev.to/sudo-self/colorful-counter-cph)
 - [Oh-Stick!](https://dev.to/sudo-self/oh-stick-1dfl)
 <!-- BLOG-POST-LIST:END -->
-
+<div align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=sudo-self&column=3&theme=onedark" alt="GitHub Profile Trophy"/>
+    </a>
+</div>
 <div align="center">
     <img src="https://github.com/sudo-self/sudo-self/assets/119916323/591566e1-cd9a-445c-9d0b-82ca60b4c37f" alt="Pull Shark" width="15%"/>
     <img src="https://github.com/sudo-self/sudo-self/assets/119916323/9d692e82-ae9f-4703-9355-74a0e8bebbfe" alt="Quickdraw" width="15%"/>
@@ -48,10 +52,6 @@
     <img src="https://github.com/sudo-self/sudo-self/assets/119916323/f135932f-d44f-4bb9-b72a-ac23219112bc" alt="Yolo" width="15%"/>
 </div>
 
-<div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=sudo-self&column=3&theme=onedark" alt="GitHub Profile Trophy"/>
-    </a>
-</div>
+
 
 
