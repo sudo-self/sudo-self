@@ -25,8 +25,8 @@
         <img src="https://github.com/sudo-self/sudo-self/actions/workflows/pages/pages-build-deployment/badge.svg" alt="Pages Build Deployment"/>
     </a>
 </div>
-
-## :writing_hand: Blog Posts
+<div align="center">
+    ## :writing_hand: Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [dicebear api](https://dev.to/sudo-self/dicebear-api-m59)
@@ -40,6 +40,7 @@
 - [Colorful Counter](https://dev.to/sudo-self/colorful-counter-cph)
 - [Oh-Stick!](https://dev.to/sudo-self/oh-stick-1dfl)
 <!-- BLOG-POST-LIST:END -->
+</div>
 <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=sudo-self&column=3&theme=onedark" alt="GitHub Profile Trophy"/>
