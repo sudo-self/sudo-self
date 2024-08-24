@@ -14,9 +14,6 @@
         <img src="https://github.com/sudo-self/psx.deno/actions/workflows/deno.yml/badge.svg" alt="Deno"/>
     </a>
 </div>
-
-<p align="center">A passionate Veteran and IT Professional</p>
-
 <div align="center">
     <a href="https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml">
         <img src="https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml/badge.svg?branch=main" alt="Latest blog post workflow"/>
