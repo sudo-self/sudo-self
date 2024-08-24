@@ -18,9 +18,6 @@
     <a href="https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml">
         <img src="https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml/badge.svg?branch=main" alt="Latest blog post workflow"/>
     </a>
-    <a href="https://github.com/sudo-self/sudo-self/actions/workflows/pages/pages-build-deployment">
-        <img src="https://github.com/sudo-self/sudo-self/actions/workflows/pages/pages-build-deployment/badge.svg" alt="Pages Build Deployment"/>
-    </a>
 </div>
 <div align="center">
     ## :writing_hand: Blog Posts
