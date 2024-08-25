@@ -13,8 +13,8 @@
   ["workers"]="Veteran, Web Developer, and IT Professional"
   ["hobbies"]=(
     "software development, writing android apps, android (linux), macOS (unix), and ARM (modular), code space"
-    "bash shell python ruby OG html demon. more focused on web frameworks and serverless functions."
-    "Drone flights, mountain bikes, PS5"
+    "bash shell python ruby OG html demon. my passion is geared towards web frameworks, serverless data"
+    "drone flights, mountain bikes, PS5"
     "POST http GET I.T. degree 2022 status 200 /ok"
     "blue screens of death, hardware, microsoft products, and anything that requires a product key"
 ) ctrl + o ctrl + x </code>
