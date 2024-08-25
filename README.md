@@ -18,7 +18,7 @@ sudo nano README.md <code><br>
     "POST grad student, Father, and creator"
     "Avoidances hardware, microsoft products, and anything that requires a product key"
   )
-) ctrl + 0 Ctrl + X
+) ctrl + o ctrl + x
 ```
 <br>
 
