@@ -57,7 +57,7 @@
 </div>
 
 
-    ## :writing_hand: Blog Posts
+    ## short demo write ups on dev.to
 
 <!-- BLOG-POST-LIST:START -->
 - [dicebear api](https://dev.to/sudo-self/dicebear-api-m59)
