@@ -22,28 +22,38 @@
 ) ctrl + o ctrl + x </code>
 ```
 <br>
-<h2 align="center"><strong>other areas of the userspace</strong></h2>
+<h2 align="center"><strong>additional markdown and social functions</strong></h2>
 <div align="center">
-  <a href="mailto:jesse@jessejesse.com" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/gmail.svg" title="Email" alt="Email" width="40" height="30"/></a>&nbsp;
-  <a href="https://www.linkedin.com/in/jrsdevelopments" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="30"/></a>&nbsp;
-  <a href="https://www.facebook.com/NieghboorhoodPUSH/" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/facebook.svg" title="Facebook" alt="Facebook" width="40" height="30"/></a>&nbsp;
-  <a href="https://instagram.com/JR85er" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/instagram.svg" title="Instagram" alt="Instagram" width="40" height="30"/></a>&nbsp;
-</div>
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=sudo-self&style=flat-square&color=blue" alt="Profile Views Counter"/>
+  <a href="mailto:jesse@jessejesse.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/gmail.svg" title="Email" alt="Email" width="40" height="30"/>
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/jrsdevelopments" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="30"/>
+  </a>&nbsp;
+  <a href="https://www.facebook.com/NieghboorhoodPUSH/" target="_blank">
+    <img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/facebook.svg" title="Facebook" alt="Facebook" width="40" height="30"/>
+  </a>&nbsp;
+  <a href="https://instagram.com/JR85er" target="_blank">
+    <img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/instagram.svg" title="Instagram" alt="Instagram" width="40" height="30"/>
+  </a>
 </div>
 
-<div align="center">
-    <a href="https://github.com/sudo-self/psx.deno/actions/workflows/deno.yml">
-        <img src="https://github.com/sudo-self/psx.deno/actions/workflows/deno.yml/badge.svg" alt="Deno"/>
-    </a>
+<div align="center" style="margin-top: 20px;">
+  <img src="https://komarev.com/ghpvc/?username=sudo-self&style=flat-square&color=blue" alt="Profile Views Counter"/>
 </div>
-<div align="center">
-    <a href="https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml">
-        <img src="https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml/badge.svg?branch=main" alt="Latest blog post workflow"/>
-    </a>
+
+<div align="center" style="margin-top: 20px;">
+  <a href="https://github.com/sudo-self/psx.deno/actions/workflows/deno.yml">
+    <img src="https://github.com/sudo-self/psx.deno/actions/workflows/deno.yml/badge.svg" alt="Deno"/>
+  </a>
 </div>
-<div align="center">
+
+<div align="center" style="margin-top: 10px;">
+  <a href="https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml">
+    <img src="https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml/badge.svg?branch=main" alt="Latest Blog Post Workflow"/>
+  </a>
+</div>
+
     ## :writing_hand: Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
