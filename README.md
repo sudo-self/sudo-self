@@ -9,7 +9,7 @@
 </div>
 
 ```bash
-sudo nano README.md <code><br>
+<code>sudo nano README.md<br>
   ["workers"]="Veteran, Web Developer, and IT Professional"
   ["hobbies"]=(
     "Porting software, writing Android APKs, Linux, macOS, and ARM)"
@@ -17,7 +17,7 @@ sudo nano README.md <code><br>
     "Drone flights, mountain bikes, PS5"
     "POST http GET I.T. degree 2022 status 200 /ok"
     "blue screens of death, hardware, microsoft products, and anything that requires a product key"
-) ctrl + o ctrl + x
+) ctrl + o ctrl + x </code>
 ```
 <br>
 
