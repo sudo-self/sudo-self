@@ -1,14 +1,11 @@
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;">
+     <img src="https://img.shields.io/badge/wow_that_badge_is_crazy_where_you_get_that_bruh%3F-Trophy_Earned_Gold-gold" alt="Crazy Badge">    <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;">
     <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;">
 </div>
-
-
 <div align="center">
   <h2>print("Hello, World!👋") sudo-self init -y</h2>
-  <img src="https://img.shields.io/badge/wow_that_badge_is_crazy_where_you_get_that_bruh%3F-Trophy_Earned_Gold-gold" alt="Crazy Badge">
+ 
 </div>
-
 
 ```{
   "command": "sudo touch README.md",
