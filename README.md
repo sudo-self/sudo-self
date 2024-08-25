@@ -1,9 +1,12 @@
 <div align="center">
+    <!-- Badge at the top center -->
     <img src="https://img.shields.io/badge/wow_that_badge_is_crazy_where_you_get_that_bruh%3F-Trophy_Earned_Gold-gold" alt="Crazy Badge">
 </div>
 
-<div style="text-align: center; margin-top: 10px;">
+<div align="center" style="margin-top: 10px;">
+    <!-- GIFs centered below the badge -->
     <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" alt="GIF 1" style="margin-right: 10px;">
+    <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" alt="GIF 2">
 </div>
 
 
