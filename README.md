@@ -57,7 +57,7 @@
 </div>
 
 
-    ## short demo write ups on dev.to
+    ## short articles written on dev.to
 
 <!-- BLOG-POST-LIST:START -->
 - [dicebear api](https://dev.to/sudo-self/dicebear-api-m59)
