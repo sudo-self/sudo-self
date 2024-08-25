@@ -15,8 +15,8 @@ sudo nano README.md <code><br>
     "Porting software, writing Android APKs, Linux, macOS, and ARM)"
     "Writing shell and build scripts to automate and integrate stuff"
     "Trying out new, techy things"
-    "POST grad student"
-    "Learning to code the world"
+    "POST grad student, Father, and creator"
+    "Avoidances hardware, microsoft products, and anything that requires a product key"
   )
 ) ctrl + 0 Ctrl + X
 ```
