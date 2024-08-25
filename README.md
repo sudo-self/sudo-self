@@ -35,7 +35,7 @@
   <a href="https://instagram.com/JR85er" target="_blank">
     <img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/instagram.svg" title="Instagram" alt="Instagram" width="40" height="30"/>
   </a>
-</div><h2 align="center"><strong>additional markdown and common languages</strong></h2>
+</div><h2 align="center"><strong>real world apps</strong></h2>
 
 
 <div align="center" style="margin-top: 20px;">
