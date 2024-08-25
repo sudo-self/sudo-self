@@ -6,7 +6,7 @@
 
 <div align="center">
   <h2>print("Hello, World!👋") sudo-self init -y</h2>
-  <img src="https://img.shields.io/badge/wow_that_badge_is_crazy_where_you_get_that_bruh%3F-Trophy_Awarded_Gold-gold" alt="Crazy Badge">
+  <img src="https://img.shields.io/badge/wow_that_badge_is_crazy_where_you_get_that_bruh%3F-Trophy_Earned_Gold-gold" alt="Crazy Badge">
 </div>
 
 
