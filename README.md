@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <h1>print("Hello, World!👋") sudo-self init -y</h1>
+  <h1>print("Hello, World!👋") sudo-self upgrade -y</h1>
 </div>
 
 ```bash
