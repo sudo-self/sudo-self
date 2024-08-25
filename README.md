@@ -12,8 +12,8 @@
 <code>sudo nano README.md<br>
   ["workers"]="Veteran, Web Developer, and IT Professional"
   ["hobbies"]=(
-    "Porting software, writing Android APKs, Linux, macOS, and ARM)"
-    "Writing shell and build scripts to automate and integrate stuff"
+    "software development, writing android APKs, linux, macOS, and ARMv cortex"
+    "bash shell python here and there but primarily focused on web langs."
     "Drone flights, mountain bikes, PS5"
     "POST http GET I.T. degree 2022 status 200 /ok"
     "blue screens of death, hardware, microsoft products, and anything that requires a product key"
