@@ -3,7 +3,24 @@
     <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;">
 </div>
 
-<h1 align="center">Hi 👋, I'm sudo-self</h1>
+
+<div align="center">
+  <h1>Hello World!👋 I am sudo-self</h1>
+</div>
+
+```bash
+sudo nano README.md <code><br>
+  ["title"]="Veteran, Web Developer, and IT Professional"
+  ["hobbies"]=(
+    "Porting software, writing Android APKs, Linux, macOS, and ARM)"
+    "Writing shell and build scripts to automate and integrate stuff"
+    "Trying out new, techy things"
+    "POST grad student"
+    "Learning to code the world"
+  )
+) ctrl + 0 Ctrl + X
+```
+<br>
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=sudo-self&style=flat-square&color=blue" alt="Profile Views Counter"/>
