@@ -5,19 +5,18 @@
 
 
 <div align="center">
-  <h1>Hello World!👋 I am sudo-self</h1>
+  <h1>Hello World!👋 sudo-self init -y</h1>
 </div>
 
 ```bash
 sudo nano README.md <code><br>
-  ["title"]="Veteran, Web Developer, and IT Professional"
+  ["workers"]="Veteran, Web Developer, and IT Professional"
   ["hobbies"]=(
     "Porting software, writing Android APKs, Linux, macOS, and ARM)"
     "Writing shell and build scripts to automate and integrate stuff"
-    "Trying out new, techy things"
-    "POST grad student, Father, and creator"
-    "Avoidances hardware, microsoft products, and anything that requires a product key"
-  )
+    "Drone flights, mountain bikes, PS5"
+    "POST http GET I.T. degree 2022 status 200 /ok"
+    "blue screens of death, hardware, microsoft products, and anything that requires a product key"
 ) ctrl + o ctrl + x
 ```
 <br>
