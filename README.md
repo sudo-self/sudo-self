@@ -22,7 +22,13 @@
 ) ctrl + o ctrl + x </code>
 ```
 <br>
-
+<h2 align="center"><strong>connect?</strong></h2>
+<div align="center">
+  <a href="mailto:jesse@jessejesse.com" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/gmail.svg" title="Email" alt="Email" width="40" height="30"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/jrsdevelopments" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="30"/></a>&nbsp;
+  <a href="https://www.facebook.com/NieghboorhoodPUSH/" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/facebook.svg" title="Facebook" alt="Facebook" width="40" height="30"/></a>&nbsp;
+  <a href="https://instagram.com/JR85er" target="_blank"><img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/instagram.svg" title="Instagram" alt="Instagram" width="40" height="30"/></a>&nbsp;
+</div>
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=sudo-self&style=flat-square&color=blue" alt="Profile Views Counter"/>
 </div>
