@@ -162,7 +162,7 @@
 <!-- BLOG-POST-LIST:END -->
 </div>
 
- Playstation One 100% Online via web browser
+ Playstation One 100% Online
 
 - [Tony Hawk 2](https://tonyhawk2.vercel.app/)
 - [Metal Gear Solid](https://metalgearsolid.vercel.app/)
