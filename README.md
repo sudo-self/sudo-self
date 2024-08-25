@@ -38,21 +38,24 @@
 </div><h2 align="center"><strong>communication spaces i visit every so often</strong></h2>
 
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=sudo-self&style=flat-square&color=blue" alt="Profile Views Counter"/>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-top: 20px;">
+  <div>
+    <a href="https://github.com/sudo-self/psx.deno/actions/workflows/deno.yml">
+      <img src="https://github.com/sudo-self/psx.deno/actions/workflows/deno.yml/badge.svg" alt="Deno"/>
+    </a>
+  </div>
+  
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=sudo-self&style=flat-square&color=blue" alt="Profile Views Counter"/>
+  </div>
+  
+  <div>
+    <a href="https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml">
+      <img src="https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml/badge.svg?branch=main" alt="Latest Blog Post Workflow"/>
+    </a>
+  </div>
 </div>
 
-<div align="left" style="margin-top: 20px;">
-  <a href="https://github.com/sudo-self/psx.deno/actions/workflows/deno.yml">
-    <img src="https://github.com/sudo-self/psx.deno/actions/workflows/deno.yml/badge.svg" alt="Deno"/>
-  </a>
-</div>
-
-<div align="left" style="margin-top: 10px;">
-  <a href="https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml">
-    <img src="https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml/badge.svg?branch=main" alt="Latest Blog Post Workflow"/>
-  </a>
-</div>
 
     ## :writing_hand: Blog Posts
 
