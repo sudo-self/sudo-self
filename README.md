@@ -129,12 +129,6 @@
   <a href="https://figma.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
   </a>
-  <a href="https://inkscape.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg" title="Inkscape" alt="Inkscape" width="40" height="40"/>
-  </a>
-  <a href="https://openai.com/chatgpt" target="_blank">
-    <img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/chatgpt.svg" title="ChatGPT" alt="ChatGPT" width="40" height="40"/>
-  </a>
 </div>
 <br>
 
