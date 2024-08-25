@@ -162,7 +162,7 @@
 <!-- BLOG-POST-LIST:END -->
 </div>
 
-### Playstion Online
+### Playstation Games 100% in web browser
 
 - [Tony Hawk 2](https://tonyhawk2.vercel.app/)
 - [Metal Gear Solid](https://metalgearsolid.vercel.app/)
