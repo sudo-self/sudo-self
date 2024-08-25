@@ -22,7 +22,6 @@
 ) ctrl + o ctrl + x </code>
 ```
 <br>
-<h2 align="center"><strong>additional markdown and social functions</strong></h2>
 <div align="center">
   <a href="mailto:jesse@jessejesse.com" target="_blank">
     <img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/gmail.svg" title="Email" alt="Email" width="40" height="30"/>
@@ -36,7 +35,8 @@
   <a href="https://instagram.com/JR85er" target="_blank">
     <img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/instagram.svg" title="Instagram" alt="Instagram" width="40" height="30"/>
   </a>
-</div>
+</div><h2 align="center"><strong>additional markdown and common languages</strong></h2>
+
 
 <div align="center" style="margin-top: 20px;">
   <img src="https://komarev.com/ghpvc/?username=sudo-self&style=flat-square&color=blue" alt="Profile Views Counter"/>
