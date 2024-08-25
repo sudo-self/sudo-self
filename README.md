@@ -12,7 +12,7 @@
 
 
 <div align="center">
-  <h2>print("Hello, World!👋")</h2>
+  <h2>print("Hello World!👋")</h2>
  
 </div>
 
