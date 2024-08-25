@@ -6,7 +6,8 @@
 
 <div align="center">
   <h1>print("Hello, World!👋") sudo-self upgrade -y</h1>
-</div>
+    [
+](https://img.shields.io/badge/wow_that_badge_is_crazy_where_you_get_that_bruh%3F-Trophy_Awared-gold)</div>
 
 ```bash
 <code>sudo nano README.md<br>
