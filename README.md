@@ -42,13 +42,13 @@
   <img src="https://komarev.com/ghpvc/?username=sudo-self&style=flat-square&color=blue" alt="Profile Views Counter"/>
 </div>
 
-<div align="center" style="margin-top: 20px;">
+<div align="left" style="margin-top: 20px;">
   <a href="https://github.com/sudo-self/psx.deno/actions/workflows/deno.yml">
     <img src="https://github.com/sudo-self/psx.deno/actions/workflows/deno.yml/badge.svg" alt="Deno"/>
   </a>
 </div>
 
-<div align="center" style="margin-top: 10px;">
+<div align="left" style="margin-top: 10px;">
   <a href="https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml">
     <img src="https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml/badge.svg?branch=main" alt="Latest Blog Post Workflow"/>
   </a>
