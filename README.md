@@ -12,7 +12,7 @@
 <code>sudo nano README.md<br>
   ["workers"]="Veteran, Web Developer, and IT Professional"
   ["hobbies"]=(
-    "software development, writing android APKs, linux, macOS, and ARMv cortex"
+    "software development, writing android apps, Linux (android), macOS (unix), and ARM (modular) code spaces"
     "bash shell python here and there but primarily focused on web frameworks and serverless functions."
     "Drone flights, mountain bikes, PS5"
     "POST http GET I.T. degree 2022 status 200 /ok"
