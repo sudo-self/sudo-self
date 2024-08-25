@@ -63,7 +63,7 @@
     </a>
   </div>
 </div>
-<h4 align="center"><strong>areas we are more likely to connect</strong></h4>
+<h4 align="center"><strong>areas i am more likely to be found</strong></h4>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 20px;">
   <a href="https://developer.android.com" target="_blank">
     <img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/androidstudio.svg" title="Android" alt="Android" width="40" height="40"/>
