@@ -56,9 +56,8 @@
   </div>
 </div>
 
-
-    ## short articles written on dev.to
-
+    ## short demos written on dev.to 🤟 
+    
 <!-- BLOG-POST-LIST:START -->
 - [dicebear api](https://dev.to/sudo-self/dicebear-api-m59)
 - [Blog with comments..](https://dev.to/sudo-self/blog-with-comments-1314)
