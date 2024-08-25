@@ -11,15 +11,15 @@
 
 
 ```{
-  "command": "sudo nano README.md",
-  "details": {
-    "workers": "Veteran, Web Developer, and IT Professional",
-    "hobbies": [
+  "command": "sudo touch README.md",
+  "insert": {
+    "details": "Veteran, Web Developer, and IT Professional",
+    "works": [
       "software development, writing android apps, android (linux), macOS (unix), and ARM (modular), code space",
-      "bash shell python ruby OG html demon. my passion is geared towards web frameworks, serverless data",
-      "drone flights, mountain bikes, PS5",
-      "POST http GET I.T. degree 2022 status 200 /ok",
-      "blue screens of death, hardware, microsoft products, and anything that requires a product key"
+      "PULL shell python ruby OG html demon. my passion is geared towards web frameworks, serverless data",
+      "POST drone flights, mountain bikes, PS5",
+      "PUSH http GET I.T. degree 2022 status 200 /ok",
+      "COMMIT blue screens of death, hardware, microsoft products, and anything that requires a product key"
     ]
   },
   "actions": [
