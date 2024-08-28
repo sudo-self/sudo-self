@@ -12,8 +12,9 @@
 
 
 <div align="center">
-  <h2> print 
-      [Hello, World!](https://marioworld.jessejesse.com/)</h2>
+  <h2>
+      [Check out my Mario World project](https://marioworld.jessejesse.com/)
+</h2>
 </div>
 
 ```{
