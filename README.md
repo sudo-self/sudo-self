@@ -12,8 +12,7 @@
 
 
 <div align="center">
-  <h2>
-      [Check out my Mario World project](https://marioworld.jessejesse.com/)
+  <h2><a href="https://marioworld.jessejesse.com">Hello World!</a>
 </h2>
 </div>
 
