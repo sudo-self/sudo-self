@@ -192,7 +192,7 @@
     <img src="https://github.com/sudo-self/sudo-self/assets/119916323/f135932f-d44f-4bb9-b72a-ac23219112bc" alt="Yolo" width="15%"/>
 </div><br>
 
-#### A well-crafted README.md is more than just a file—it's the first impression of your project. It serves as a guide, a reference, and a communication tool that can bridge the gap between you and your audience. Whether it's helping others understand the purpose and usage of your code, or inspiring them to contribute and collaborate, a clear and informative README ensures that your project is accessible and inviting. In a world where first impressions matter, your README.md is the voice of your project—make it count.
+#### [![Mario World Preview](https://marioworld.jessejesse.com/)
 
 
 
