@@ -32,10 +32,8 @@
     "ctrl + o",
     "ctrl + x"
   ]
-}
+}```
 
-```
-<br>
 <div align="center">
   <a href="mailto:jesse@jessejesse.com" target="_blank">
     <img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/gmail.svg" title="Email" alt="Email" width="40" height="30"/>
