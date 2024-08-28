@@ -32,7 +32,8 @@
     "ctrl + o",
     "ctrl + x"
   ]
-}```
+}
+```
 
 <div align="center">
   <a href="mailto:jesse@jessejesse.com" target="_blank">
