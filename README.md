@@ -192,7 +192,7 @@
     <img src="https://github.com/sudo-self/sudo-self/assets/119916323/f135932f-d44f-4bb9-b72a-ac23219112bc" alt="Yolo" width="15%"/>
 </div><br>
 
-#### [![Mario World Preview](https://marioworld.jessejesse.com/)
+#### [Mario World Preview](https://marioworld.jessejesse.com/)
 
 
 
