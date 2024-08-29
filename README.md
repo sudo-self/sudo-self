@@ -48,6 +48,7 @@
   <a href="https://instagram.com/JR85er" target="_blank">
     <img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/instagram.svg" title="Instagram" alt="Instagram" width="40" height="30"/>
   </a>
+    
 </div><h4 align="center"><strong>connect with me on any of these world favorites</strong></h4>
 
 
