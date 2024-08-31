@@ -12,7 +12,8 @@
 
 
 <div align="center">
-  <h2><a href="https://marioworld.jessejesse.com">Hello World!</a>![Super Mario Toad](https://api.iconify.design/hugeicons:super-mario-toad.svg?color=%23ff2600)
+  <h2><a href="https://marioworld.jessejesse.com">Hello World!</a>
+      ![Super Mario Toad](https://api.iconify.design/hugeicons:super-mario-toad.svg?color=%23ff2600)
 
 </h2>
 </div>
