@@ -156,6 +156,7 @@
     ## short demos written on dev.to 🤟 
     
 <!-- BLOG-POST-LIST:START -->
+- [Deploy with workers](https://dev.to/sudo-self/deploy-with-workers-595h)
 - [dicebear api](https://dev.to/sudo-self/dicebear-api-m59)
 - [Blog with comments..](https://dev.to/sudo-self/blog-with-comments-1314)
 - [GitHub-repo-api](https://dev.to/sudo-self/github-repos-284g)
@@ -165,7 +166,6 @@
 - [Dark Mode](https://dev.to/sudo-self/dark-mode-23dd)
 - [htmx chat](https://dev.to/sudo-self/htmx-chat-2bn3)
 - [Colorful Counter](https://dev.to/sudo-self/colorful-counter-cph)
-- [Oh-Stick!](https://dev.to/sudo-self/oh-stick-1dfl)
 <!-- BLOG-POST-LIST:END -->
 </div>
 
