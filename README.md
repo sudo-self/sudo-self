@@ -171,7 +171,7 @@
 
 ### Playstion Online
 
-- [Tony Hawk 2](https://playstaation.jessejesse.com)
+- [Playstation](https://playstaation.jessejesse.com)
 
 
 <div align="center">
