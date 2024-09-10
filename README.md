@@ -171,20 +171,8 @@
 
 ### Playstion Online
 
-- [Tony Hawk 2](https://tonyhawk2.vercel.app/)
-- [Metal Gear Solid](https://metalgearsolid.vercel.app/)
-- [Dracula Resurrection](https://dracularesurection.vercel.app/)
-- [Cool Boarders 4](https://coolboarders4.vercel.app/)
-- [Tomb Raider 2](https://tombraider2.vercel.app/)
-- [Die Hard 3](https://diehard3.vercel.app/)
-- [Batman Forever](https://batmanforever.vercel.app/)
-- [Toy Story 2](https://toystory2.vercel.app/)
-- [Need for Speed 3](https://needforspeed3.vercel.app/)
-- [Madden 2005](https://madden2005.vercel.app/)
-- [Final Fantasy 9](https://finalfantasy9.vercel.app/)
-- [Vigilante 8](https://vigilante8.vercel.app/)
-- [Crash Bandicoot](https://crashbandicoot.vercel.app/)
-- [Street Fighter 2](https://streetfighter2.vercel.app/)
+- [Tony Hawk 2](https://playstaation.jessejesse.com)
+
 
 <div align="center">
     <img src="https://github.com/sudo-self/sudo-self/assets/119916323/591566e1-cd9a-445c-9d0b-82ca60b4c37f" alt="Pull Shark" width="15%"/>
