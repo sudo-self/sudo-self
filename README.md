@@ -12,7 +12,13 @@
 
 
 <div align="center">
-  <h2><a href="https://marioworld.jessejesse.com">Hello World!</a>
+    
+<center>
+  <a href="https://deploy.workers.cloudflare.com/?url=https://github.com/sudo-self/floater-buttons">
+    <img src="https://deploy.workers.cloudflare.com/button" alt="Deploy to Cloudflare Workers" />
+  </a>
+</center>
+                  <h2><a href="https://marioworld.jessejesse.com">Hello World!</a>
 </h2>
 </div>
 
