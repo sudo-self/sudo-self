@@ -70,6 +70,16 @@
       <img src="https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml/badge.svg?branch=main" alt="Latest Blog Post Workflow"/>
     </a>
   </div>
+
+
+<div>
+   <a fref="https://github.com/sudo-self/Floater-xyz/actions/workflows/nextjs.yml">
+      <img src="https://github.com/sudo-self/Floater-xyz/actions/workflows/nextjs.yml/badge.svg" alt="Deploy Next.js site to Pages"/>
+   </a>
+ </div>
+
+
+  
   
   <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
