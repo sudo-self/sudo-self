@@ -64,16 +64,6 @@
     </a>
   </div>
 
-
-<div>
-   <a fref="https://github.com/sudo-self/Floater-xyz/actions/workflows/nextjs.yml">
-      <img src="https://github.com/sudo-self/Floater-xyz/actions/workflows/nextjs.yml/badge.svg" alt="Deploy Next.js site to Pages"/>
-   </a>
- </div>
-
-
-  
-  
   <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=sudo-self&column=3&theme=onedark" alt="GitHub Profile Trophy"/>
