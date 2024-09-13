@@ -53,13 +53,6 @@
     
 </div><h4 align="center"><strong>connect with me on any of these world favorites</strong></h4>
 
-
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-top: 20px;">
-  <div>
-    <a href="https://github.com/sudo-self/psx.deno/actions/workflows/deno.yml">
-      <img src="https://github.com/sudo-self/psx.deno/actions/workflows/deno.yml/badge.svg" alt="Deno"/>
-    </a>
-  </div>
   
   <div>
     <img src="https://komarev.com/ghpvc/?username=sudo-self&style=flat-square&color=blue" alt="Profile Views Counter"/>
