@@ -13,9 +13,22 @@
 
 <div align="center">
     
-   <h2><a href="https://marioworld.jessejesse.com">Hello World!</a>
-</h2>
+
+  <img src="https://komarev.com/ghpvc/?username=sudo-self&style=flat-square&color=blue" alt="Profile Views Counter"/>
+
+  <a href="https://github.com/sudo-self/floater-buttons/actions/workflows/npm-publish.yml" target="_blank">
+    <img src="https://github.com/sudo-self/floater-buttons/actions/workflows/npm-publish.yml/badge.svg" alt="Node.js Package"/>
+  </a>
+
+  <a href="https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml" target="_blank">
+    <img src="https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml/badge.svg?branch=main" alt="Latest Blog Post Workflow"/>
+  </a>
+
+  <a href="https://github.com/sudo-self/floater-xyz/actions/workflows/nextjs.yml" target="_blank">
+    <img src="https://github.com/sudo-self/floater-xyz/actions/workflows/nextjs.yml/badge.svg" alt="Deploy Next.js site to Pages"/>
+  </a>
 </div>
+
 
 ```
 {
@@ -54,15 +67,10 @@
 </div><h4 align="center"><strong>connect with me on any of these world favorites</strong></h4>
 
   
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=sudo-self&style=flat-square&color=blue" alt="Profile Views Counter"/>
-  </div>
+
+
   
-  <div>
-    <a href="https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml">
-      <img src="https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml/badge.svg?branch=main" alt="Latest Blog Post Workflow"/>
-    </a>
-  </div>
+  
 
   <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
