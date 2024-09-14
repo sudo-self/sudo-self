@@ -17,8 +17,6 @@
 </h2>
 </div>
 
-<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Ffloater.jessejesse.xyz&width=50px&layout&action&size&share=false&height=35&appId=7005971196091165" width="50px" height="35" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
 ```
 {
   "command": "sudo touch README.md",
