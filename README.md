@@ -23,10 +23,6 @@
   <a href="https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml" target="_blank">
     <img src="https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml/badge.svg?branch=main" alt="Latest Blog Post Workflow"/>
   </a>
-
-  <a href="https://github.com/sudo-self/floater-xyz/actions/workflows/nextjs.yml" target="_blank">
-    <img src="https://github.com/sudo-self/floater-xyz/actions/workflows/nextjs.yml/badge.svg" alt="Deploy Next.js site to Pages"/>
-  </a>
 </div>
 
 
