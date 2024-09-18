@@ -30,7 +30,7 @@
 
 [![Latest Blog Post Workflow](https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml/badge.svg?branch=main)](https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml)
 
-
+</div>
 
 ```
 {
