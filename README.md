@@ -22,18 +22,14 @@
 
 <div align="center">
     
+# Hello World!
 
-    
-[![Deploy Next.js site to Pages](https://github.com/sudo-self/floater-b/actions/workflows/nextjs.yml/badge.svg)](https://github.com/sudo-self/floater-b/actions/workflows/nextjs.yml)  
+[![Deploy Next.js site to Pages](https://github.com/sudo-self/floater-b/actions/workflows/nextjs.yml/badge.svg)](https://github.com/sudo-self/floater-b/actions/workflows/nextjs.yml)
 
-  <a href="https://github.com/sudo-self/floater-buttons/actions/workflows/npm-publish.yml" target="_blank">
-    <img src="https://github.com/sudo-self/floater-buttons/actions/workflows/npm-publish.yml/badge.svg" alt="Node.js Package"/>
-  </a>
+[![Node.js Package](https://github.com/sudo-self/floater-buttons/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/sudo-self/floater-buttons/actions/workflows/npm-publish.yml)
 
-  <a href="https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml" target="_blank">
-    <img src="https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml/badge.svg?branch=main" alt="Latest Blog Post Workflow"/>
-  </a>
-</div>
+[![Latest Blog Post Workflow](https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml/badge.svg?branch=main)](https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml)
+
 
 
 ```
