@@ -1,7 +1,9 @@
 <div align="center">
-
-[![Deploy Next.js site to Pages](https://github.com/sudo-self/floater-b/actions/workflows/nextjs.yml/badge.svg)](https://github.com/sudo-self/floater-b/actions/workflows/nextjs.yml)   
-    <img src="https://img.shields.io/badge/wow_that_badge_is_crazy_where_you_get_that_bruh%3F-Trophy_Earned_Gold-gold" alt="Crazy Badge">
+    
+  <img src="https://komarev.com/ghpvc/?username=sudo-self&style=flat-square&color=blue" alt="Profile Views Counter"/>
+ 
+ <img src="https://img.shields.io/badge/wow_that_badge_is_crazy_where_you_get_that_bruh%3F-Trophy_Earned_Gold-gold" alt="Crazy Badge">
+    
 </div>
 
 <div align="center" style="margin-top: 10px;">
@@ -21,7 +23,8 @@
 <div align="center">
     
 
-  <img src="https://komarev.com/ghpvc/?username=sudo-self&style=flat-square&color=blue" alt="Profile Views Counter"/>
+    
+[![Deploy Next.js site to Pages](https://github.com/sudo-self/floater-b/actions/workflows/nextjs.yml/badge.svg)](https://github.com/sudo-self/floater-b/actions/workflows/nextjs.yml)  
 
   <a href="https://github.com/sudo-self/floater-buttons/actions/workflows/npm-publish.yml" target="_blank">
     <img src="https://github.com/sudo-self/floater-buttons/actions/workflows/npm-publish.yml/badge.svg" alt="Node.js Package"/>
