@@ -30,8 +30,6 @@
 
 [![Latest Blog Post Workflow](https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml/badge.svg?branch=main)](https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml)
 
-[![Deploy Next.js site to Pages](https://github.com/sudo-self/floater-b/actions/workflows/nextjs.yml/badge.svg)](https://github.com/sudo-self/floater-b/actions/workflows/nextjs.yml)
-
 </div>
 
 ```
