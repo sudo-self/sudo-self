@@ -179,7 +179,7 @@
 
 ### Playstion Online
 
-- [Playstation](https://playstaation.jessejesse.com)
+- [Playstation](https://playstation.jessejesse.com)
 
 
 <div align="center">
