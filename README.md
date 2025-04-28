@@ -71,18 +71,6 @@
     
 </div><h4 align="center"><strong>connect with me on any of these world favorites</strong></h4>
 
-  
-
-
-  
-  
-
-  <div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=sudo-self&column=3&theme=onedark" alt="GitHub Profile Trophy"/>
-    </a>
-</div>
-
 </div>
 <h4 align="center"><strong>areas i am more likely to be found</strong></h4>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 20px;">
