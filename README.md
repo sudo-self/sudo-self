@@ -19,6 +19,8 @@
 
 ![Sudo-selfs GitHub stats](https://github-readme-stats.vercel.app/api?username=sudo-self&show_icons=true&theme=radical)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sudo-self&repo=github-readme-stats)](https://github.com/sudo-self/github-readme-stats)
+
 
 <div align="center">
     
