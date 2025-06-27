@@ -17,7 +17,7 @@
 
 
 
-
+![Sudo-selfs GitHub stats](https://github-readme-stats.vercel.app/api?username=sudo-self&show_icons=true&theme=radical)
 
 
 <div align="center">
