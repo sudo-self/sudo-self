@@ -23,6 +23,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-self&layout=pie)](https://github.com/sudo-self/github-readme-stats)
 
+[![sudo-self GitHub stats](https://github-readme-stats.vercel.app/api?username=sudo-self)](https://github.com/sudo-self/github-readme-stats)
+
 
 <div align="center">
     
