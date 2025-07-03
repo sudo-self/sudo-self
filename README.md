@@ -37,6 +37,8 @@
 
 [![Node.js Package](https://github.com/sudo-self/floater-buttons/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/sudo-self/floater-buttons/actions/workflows/npm-publish.yml)
 
+[![Deploy Next.js site to Pages](https://github.com/sudo-self/device-detector/actions/workflows/nextjs.yml/badge.svg)](https://github.com/sudo-self/device-detector/actions/workflows/nextjs.yml)
+
 [![Latest Blog Post Workflow](https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml/badge.svg?branch=main)](https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml)
 
 
