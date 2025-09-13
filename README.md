@@ -33,7 +33,7 @@
 <code>curl -H "Accept: application/vnd.github.v3+json" https://api.github.com/users/GITHUB_USERNAME_HERE</CODE>
 
 
-[![API Status](https://img.shields.io/endpoint?url=https://floater.jessejesse.xyz/api/floater)](https://floater.jessejesse.xyz/api/floater)
+[![Pytone CI](https://github.com/sudo-self/pytones/actions/workflows/python-app.yml/badge.svg)](https://github.com/sudo-self/pytones/actions/workflows/python-app.yml)
 
 [![Node.js Package](https://github.com/sudo-self/floater-buttons/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/sudo-self/floater-buttons/actions/workflows/npm-publish.yml)
 
