@@ -26,6 +26,8 @@
 [![sudo-self GitHub stats](https://github-readme-stats.vercel.app/api?username=sudo-self)](https://github.com/sudo-self/github-readme-stats)
 
 
+
+
 <div align="center">
     
 # Hello World!
@@ -41,6 +43,8 @@
 [![Latest Blog Post Workflow](https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml/badge.svg?branch=main)](https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml)
 
 [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/sudo-self/sudo-self.github.io/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/sudo-self/sudo-self.github.io/actions/workflows/jekyll-gh-pages.yml)
+
+[![Publish Gemini CLI to GitHub Packages](https://github.com/sudo-self/gemini-2.0-cli/actions/workflows/npm-publish-github-packages.yml/badge.svg)](https://github.com/sudo-self/gemini-2.0-cli/actions/workflows/npm-publish-github-packages.yml)
 
 
 </div>
