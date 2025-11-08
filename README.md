@@ -70,9 +70,7 @@
 ```
 
 <div align="center">
-  <a href="mailto:jesse@jessejesse.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/fathonix/fathonix/master/assets/logos/gmail.svg" title="Email" alt="Email" width="40" height="30"/>
-  </a>&nbsp;
+
   <a href="https://www.linkedin.com/in/jrsdevelopments" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="30"/>
   </a>&nbsp;
