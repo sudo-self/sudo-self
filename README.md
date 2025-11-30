@@ -32,9 +32,6 @@
 
 [![Pytone CI](https://github.com/sudo-self/pytones/actions/workflows/python-app.yml/badge.svg)](https://github.com/sudo-self/pytones/actions/workflows/python-app.yml)
 
-[![Node.js Package](https://github.com/sudo-self/floater-buttons/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/sudo-self/floater-buttons/actions/workflows/npm-publish.yml)
-
-
 [![Latest Blog Post Workflow](https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml/badge.svg?branch=main)](https://github.com/sudo-self/sudo-self/actions/workflows/blogpost.yml)
 
 [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/sudo-self/sudo-self.github.io/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/sudo-self/sudo-self.github.io/actions/workflows/jekyll-gh-pages.yml)
