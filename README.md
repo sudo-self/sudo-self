@@ -12,17 +12,6 @@
     <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" alt="GIF 2">
 </div>
 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-self&hide_progress=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-self&layout=pie)](https://github.com/sudo-self/github-readme-stats)
-
-
-
-
-
-
 <div align="center">
     
 # Hello World!
