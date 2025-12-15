@@ -18,6 +18,7 @@
 
 <code>curl -H "Accept: application/vnd.github.v3+json" https://api.github.com/users/GITHUB_USERNAME_HERE</CODE>
 
+[![APK Builder](https://github.com/sudo-self/apk-builder-actions/actions/workflows/apk-builder.yml/badge.svg)](https://github.com/sudo-self/apk-builder-actions/actions/workflows/apk-builder.yml)
 
 [![Pytone CI](https://github.com/sudo-self/pytones/actions/workflows/python-app.yml/badge.svg)](https://github.com/sudo-self/pytones/actions/workflows/python-app.yml)
 
