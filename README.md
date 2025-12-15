@@ -145,6 +145,7 @@
     ## short demos written on dev.to 🤟 
     
 <!-- BLOG-POST-LIST:START -->
+- [Deploy Buttons Generator Beautiful Deployment Badges for Your GitHub Repos](https://dev.to/sudo-self/deploy-buttons-generator-beautiful-deployment-badges-for-your-github-repos-573f)
 - [Calculator](https://dev.to/sudo-self/calculator-2n3f)
 - [Deploy with workers](https://dev.to/sudo-self/deploy-with-workers-595h)
 - [dicebear api](https://dev.to/sudo-self/dicebear-api-m59)
@@ -154,7 +155,6 @@
 - [Base 64](https://dev.to/sudo-self/base-64-2pa0)
 - [http request](https://dev.to/sudo-self/http-request-200-ok-4li2)
 - [Dark Mode](https://dev.to/sudo-self/dark-mode-23dd)
-- [htmx chat](https://dev.to/sudo-self/htmx-chat-2bn3)
 <!-- BLOG-POST-LIST:END -->
 </div>
 
