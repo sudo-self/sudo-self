@@ -145,7 +145,7 @@
     ## short demos written on dev.to 🤟 
     
 <!-- BLOG-POST-LIST:START -->
-- [Deploy Buttons Generator Beautiful Deployment Badges for Your GitHub Repos](https://dev.to/sudo-self/deploy-buttons-generator-beautiful-deployment-badges-for-your-github-repos-573f)
+- [Deploy Buttons Generator Beautiful Deployment Badges](https://dev.to/sudo-self/deploy-buttons-generator-beautiful-deployment-badges-for-your-github-repos-573f)
 - [Calculator](https://dev.to/sudo-self/calculator-2n3f)
 - [Deploy with workers](https://dev.to/sudo-self/deploy-with-workers-595h)
 - [dicebear api](https://dev.to/sudo-self/dicebear-api-m59)
